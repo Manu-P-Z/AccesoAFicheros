@@ -1,0 +1,4 @@
+#Fichero de configuracion
+#Thu Oct 07 13:27:12 CEST 2021
+data\\coches.txt=
+ruta=H\:\\DAM\\Acceso_a_Datos\\Proyectos_Intellij\\AccesoAFicheros
